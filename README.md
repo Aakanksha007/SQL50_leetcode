@@ -1,1 +1,2 @@
-Practicing SQL and solving questions from Leetcode to crack interviews
+->Practicing SQL and solving questions from Leetcode to crack interviews
+-> Applying Concepts to solve problems
